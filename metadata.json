@@ -1,0 +1,8 @@
+{
+  "name": "IsYourBaby10??!",
+  "description": "KNOW IF YOUR HONEY IS A 10, OR IS SHE 7? HAHA - The ultimate Gen-Z visual vibe check.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
